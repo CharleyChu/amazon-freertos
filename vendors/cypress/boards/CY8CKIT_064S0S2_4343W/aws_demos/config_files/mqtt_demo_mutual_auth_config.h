@@ -113,6 +113,8 @@
  * #define democonfigROOT_CA_PEM    "...insert here..."
  */
 
+#define democonfigROOT_CA_PEM            tlsVERISIGN_ROOT_CERTIFICATE_PEM
+
 /**
  * @brief Size of the network buffer for MQTT packets.
  */
